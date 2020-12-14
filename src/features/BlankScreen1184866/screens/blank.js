@@ -35,8 +35,9 @@ export default class Blank extends React.Component {
             "https://d3tklmlrp1a8c2.cloudfront.net/media/project_component_resources/logo_NSwZKIi.png"
         }}
       />
+      <Text>fer</Text>
     </View>
   )
 }
 
-const styles = StyleSheet.create({ View_1: {}, Image_3: {} })
+const styles = StyleSheet.create({ View_1: {}, Image_3: {}, Text_5: {} })
