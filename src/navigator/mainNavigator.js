@@ -6,7 +6,6 @@ import SplashScreen from "../features/SplashScreen";
 import SideMenu from './sideMenu';
 //@BlueprintImportInsertion
 import Camera1184990Navigator from '../features/Camera1184990/navigator';
-import Maps184940Navigator from '../features/Maps184940/navigator';
 import CalendarView184939Navigator from '../features/CalendarView184939/navigator';
 import Dashboard1184927Navigator from '../features/Dashboard1184927/navigator';
 import EmailAuth184923Navigator from '../features/EmailAuth184923/navigator';
@@ -26,7 +25,6 @@ const AppNavigator = {
 
     //@BlueprintNavigationInsertion
 Camera1184990: { screen: Camera1184990Navigator },
-Maps184940: { screen: Maps184940Navigator },
 CalendarView184939: { screen: CalendarView184939Navigator },
 Dashboard1184927: { screen: Dashboard1184927Navigator },
 EmailAuth184923: { screen: EmailAuth184923Navigator },
