@@ -1,6 +1,6 @@
 import axios from "axios"
 const cdepotAPI = axios.create({
-  baseURL: "https://cdepot-23351-prod.herokuapp.com/",
+  baseURL: "https://cdepot-23351.botics.co/",
   headers: { Accept: "application/json", "Content-Type": "application/json" }
 })
 function api_v1_customtext_list(action) {
