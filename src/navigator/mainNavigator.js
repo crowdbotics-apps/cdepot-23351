@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import Camera1184990Navigator from '../features/Camera1184990/navigator';
 import Maps184940Navigator from '../features/Maps184940/navigator';
 import CalendarView184939Navigator from '../features/CalendarView184939/navigator';
-import Camera184938Navigator from '../features/Camera184938/navigator';
 import Dashboard1184927Navigator from '../features/Dashboard1184927/navigator';
 import EmailAuth184923Navigator from '../features/EmailAuth184923/navigator';
 import Messaging184922Navigator from '../features/Messaging184922/navigator';
@@ -29,7 +28,6 @@ const AppNavigator = {
 Camera1184990: { screen: Camera1184990Navigator },
 Maps184940: { screen: Maps184940Navigator },
 CalendarView184939: { screen: CalendarView184939Navigator },
-Camera184938: { screen: Camera184938Navigator },
 Dashboard1184927: { screen: Dashboard1184927Navigator },
 EmailAuth184923: { screen: EmailAuth184923Navigator },
 Messaging184922: { screen: Messaging184922Navigator },
